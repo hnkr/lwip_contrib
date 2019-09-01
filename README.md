@@ -1,6 +1,5 @@
 # Running LwIP TCP/IP Stack on Ubuntu
-- How to create a thread,
-- What is the functionality of pthread_join?
+- To develop 'target' application on host 
 
 ## Requirements
 - Ubuntu OS (on account of using TAP interface)
