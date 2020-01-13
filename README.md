@@ -5,9 +5,9 @@
 - Ubuntu OS (on account of using TAP interface)
 - gcc
 
-## Compile & Run
+## Build & Run
 Get in lwip_contrib/contrib/ports/unix/minimal directory.
-- Compile:
+- Build:
     -  make
 - Run:
     - sudo ./echop
